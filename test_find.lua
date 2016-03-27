@@ -62,5 +62,6 @@ print(cur_time)
 cur_time = os.date("!%Y-%m-%dT%H:%M:%SZ")
 print(cur_time)
 
+print("hahaha............")
 
 
